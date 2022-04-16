@@ -1,0 +1,4 @@
+*.avi
+/dist
+*.mp4
+/.vs
